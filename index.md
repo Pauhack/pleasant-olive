@@ -4,4 +4,4 @@ isHome: true
 layout: index
 
 ---
-## Natural, sustainable colorants right to your door
+# Natural, sustainable colorants right to your door
