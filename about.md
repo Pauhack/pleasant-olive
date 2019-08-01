@@ -6,21 +6,19 @@ introduction: We are Fruitbase, a team of people full passion for what we do. Al
   to provide sustainable colorant and dye solutions. We believe the world deserves
   a sustainable future and we want to be part of it.
 bulletpoints:
-- title: We love plants
-  description: Now THAT is true, but we love web development even more. We talk about
-    it on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft live demos
-    and open source these bad boys [on GitHub](https://github.com/snipcart). Matter
-    of fact, this Planty theme [is open source too](https://github.com/snipcart/stackbit-theme-planty)!
-    If you spot any bugs, open an issue, and we’ll fire our junior dev. Just kidding
-    Michael, you’re good.
+- title: Wholesale supply
+  description: 'We are wholesale suppliers of ingredients required nowadays to manufacture
+    sustainable products. The company sources ingredients in bulk from the best quality
+    producers and then reliably ships them around the world--locating the nearest
+    source to the customer to reduce the shipping footprint. '
   image:
     optimized: images/nan_talk.webp
     fallback: images/nan_talk.jpg
-- title: We think plants are the future
-  description: Word. But good **code** _can_ solve a lots of problems, too. New _and_
-    old. That’s why we help beginners get started with web development through free
-    content and tools, like this theme. We also believe [the JAMstack](https://jamstack.org/)
-    might be one solid pillar on which we build that future.
+- title: Eco-friendly
+  description: Fruitbase is on a mission to power a cleaner and more environmentally-conscious
+    economy. Through our e-commerce platform, we offer a seamless access to otherwise
+    difficult-to-find ingredients and raw materials. We supply restaurants and food
+    producers, textile manufacturers, cosmetics companies, among others.
   image:
     optimized: images/team.webp
     fallback: images/team.jpg
