@@ -1,9 +1,7 @@
 ---
-title: Home
+title: Fruitbase | Pant-based Colorants
 isHome: true
 layout: index
+
 ---
-
-# Real, beautiful plants right to your door
-
- 
+# Best quality, sustainable colorants & dyes right to your door
