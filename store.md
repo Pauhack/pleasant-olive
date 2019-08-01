@@ -1,5 +1,5 @@
 ---
-title: Shop Colorants
+title: Shop
 layout: store
 menu:
   main:
