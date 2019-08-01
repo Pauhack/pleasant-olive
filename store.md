@@ -1,7 +1,8 @@
 ---
-title: Store
-menus:
+title: Shop Colorants
+layout: store
+menu:
   main:
     weight: 1
-layout: store
+
 ---
