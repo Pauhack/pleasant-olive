@@ -4,4 +4,4 @@ isHome: true
 layout: index
 
 ---
-# Best quality, sustainable colorants & dyes right to your door
+# Natural, sustainable colorants right to your door
