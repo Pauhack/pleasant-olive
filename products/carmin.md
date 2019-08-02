@@ -22,7 +22,7 @@ images:
       optimized: ''
       fallback: "/images/carmin-de-cochinilla.jpg"
 category: categories/colorants.md
-featured: true
+featured: false
 section: Store
 menu:
   main:
