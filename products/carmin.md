@@ -21,7 +21,7 @@ images:
     original:
       optimized: ''
       fallback: "/images/carmin-de-cochinilla.jpg"
-category: summer
+category: categories/colorants.md
 featured: true
 section: Home
 menu:
