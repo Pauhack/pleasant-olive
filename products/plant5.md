@@ -9,8 +9,8 @@ images:
       optimized: "/images/bixina.jpg"
       fallback: "/images/bixina.jpg"
     original:
-      optimized: "/images/plant5-lg.webp"
-      fallback: "/images/plant5-lg.jpg"
+      optimized: "/images/bixina.jpg"
+      fallback: "/images/bixina.jpg"
   featured:
     thumbnail:
       optimized: "/images/plant5-featured.webp"
