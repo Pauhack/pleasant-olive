@@ -21,7 +21,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: bigplants
+category: summer
 featured: false
 section: ''
 
