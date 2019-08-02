@@ -23,7 +23,7 @@ images:
       fallback: "/images/carmin-de-cochinilla.jpg"
 category: categories/colorants.md
 featured: true
-section: Home
+section: Store
 menu:
   main:
     weight: 4
