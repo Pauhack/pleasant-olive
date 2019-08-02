@@ -22,7 +22,7 @@ images:
       optimized: ''
       fallback: ''
 category: summer
-featured: true
-section: Home
+featured: false
+section: ''
 
 ---
