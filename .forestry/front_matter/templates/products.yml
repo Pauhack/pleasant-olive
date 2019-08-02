@@ -99,7 +99,6 @@ fields:
     required: true
 pages:
 - products/carmin.md
-- products/plant9.md
 - products/plant8.md
 - products/plant5.md
 - products/plant2.md
