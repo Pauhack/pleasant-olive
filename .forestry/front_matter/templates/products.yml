@@ -71,8 +71,8 @@ fields:
   label: Category
   config:
     source:
-      type: documents
-      section: ''
+      type: pages
+      section: categories
       file: categories/colorants.md
     options:
     - summer
