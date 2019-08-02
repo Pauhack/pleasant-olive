@@ -17,10 +17,10 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/carmin-de-cochinilla.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/carmin-de-cochinilla.jpg"
 category: summer
 featured: true
 section: ''
