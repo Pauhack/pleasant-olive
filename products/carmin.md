@@ -21,7 +21,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: summer
+category: ''
 featured: false
 section: ''
 
