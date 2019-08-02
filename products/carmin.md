@@ -23,6 +23,6 @@ images:
       fallback: "/images/carmin-de-cochinilla.jpg"
 category: summer
 featured: true
-section: ''
+section: Home
 
 ---
