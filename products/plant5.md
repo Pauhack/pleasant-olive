@@ -18,7 +18,7 @@ images:
     original:
       optimized: "/images/bixina.jpg"
       fallback: "/images/bixina.jpg"
-category: europe
+category: categories/summer.md
 featured: true
 section: Store
 layout: product
