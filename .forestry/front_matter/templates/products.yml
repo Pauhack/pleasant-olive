@@ -71,7 +71,9 @@ fields:
   label: Category
   config:
     source:
-      type: custom
+      type: documents
+      section: ''
+      file: categories/colorants.md
     options:
     - summer
     - europe
