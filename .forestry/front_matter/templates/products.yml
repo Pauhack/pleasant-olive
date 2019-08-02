@@ -100,8 +100,8 @@ fields:
   config:
     required: true
 pages:
-- products/carmin.md
 - products/plant8.md
+- products/carmin.md
 - products/plant5.md
 - products/plant2.md
 - products/plant1.md
