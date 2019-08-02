@@ -24,5 +24,9 @@ images:
 category: summer
 featured: true
 section: Home
+menu:
+  main:
+    weight: 4
+    title: Blog
 
 ---
