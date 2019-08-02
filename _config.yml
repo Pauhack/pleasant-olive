@@ -16,7 +16,7 @@ styles:
   backgroundImages:
     primary:
       optimized: images/header.webp
-      fallback: images/header.jpg
+      fallback: "/images/paper-571938_1920.jpg"
     secondary:
       optimized: images/leaf-light-grey.svg
       fallback: images/leaf-light-grey.svg
