@@ -1,6 +1,6 @@
 ---
-slug: summer
-title: Summer plants
+slug: vegan
+title: Exotic Vegan
 section: Store
 layout: category
 menu:
