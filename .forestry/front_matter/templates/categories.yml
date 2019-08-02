@@ -26,5 +26,5 @@ fields:
   config:
     required: true
 pages:
-- categories/summer.md
 - categories/europe.md
+- categories/summer.md

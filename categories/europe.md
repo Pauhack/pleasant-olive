@@ -1,6 +1,6 @@
 ---
-slug: europe
-title: Plants from Europe
+slug: plant-based
+title: Plant-based
 section: Store
 layout: category
 menu:
