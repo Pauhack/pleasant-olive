@@ -21,8 +21,8 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: cactuses
-featured: false
-section: ''
+category: summer
+featured: true
+section: Home
 
 ---
