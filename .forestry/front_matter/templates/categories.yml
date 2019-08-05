@@ -27,5 +27,6 @@ fields:
   config:
     required: true
 pages:
+- categories/a-new-category.md
 - categories/summer.md
 - categories/europe.md
